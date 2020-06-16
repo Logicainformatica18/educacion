@@ -1,0 +1,15 @@
+.mensaje_inicial {
+    color:rgb(31, 101, 180)
+  }
+ 
+  .mensaje_principal {
+      text-align: center;
+     color:#ffff;
+      height: 50px;
+      background-color: rgb(43, 71, 122);
+      width:500px;
+      border: 5px solid black;
+  }
+  .mensaje_final {
+      color:red;
+  }

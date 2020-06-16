@@ -1,0 +1,56 @@
+
+    .cabezal
+    {
+        text-align:center;
+        width:98%;
+        height:5%;
+    }
+  .imgcabezal
+  {
+      width:100%;
+      height:100%;
+  }
+  
+.cuerpo{
+    text-align:center;
+    width:98%;
+    
+
+}
+.cuerpo iframe{
+    width:50%;
+    text-align:center;
+    height:50%;
+    border:0;
+}
+  .contenedor{
+    height: 49%;
+    background-color: #6A737C;
+    margin: 1% 1%;
+  }
+  .pie  {
+   
+    text-align:center;
+    background-color:black;
+    position: absolute;
+    bottom: 0;
+    width: 98%;
+    height: 5%;
+   
+    }
+.imgpie
+{
+    width:100%;
+    height:100%;
+}
+.txt
+{
+    width:100%;
+    height:15%;
+}
+.btn
+{
+    width:100px;
+    height:9%;
+}
+body{font-size:16px;}

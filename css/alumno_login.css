@@ -1,0 +1,36 @@
+
+
+.btn {
+    width:250px;
+    height: 45px;
+    border-radius: 5px;
+    background-color:#3485ff;
+    border-color: black;
+    	/*COLOR DE TEXTO DE RELLENO*/
+	-webkit-text-fill-color:white;
+}
+.txt{
+	
+	/*TAMAÑO DE LETRA*/
+	font-size: 15px;
+	/* ANCHO */
+	width: 300px;
+	/* ALTURA */
+	height: 35px;
+	/*COLOR DE RELLENO*/
+	background-color: rgb(255, 255, 255);
+	/* COLOR DE BORDE */
+	border-color:rgb(74, 234, 255);
+	/* BORDE REDONDEADO SEGUN LOS PIXELES */
+	border-radius: 1px;
+	/* GROSOR DEL BORDE SUPERIOR */
+	 border-top-width: 1px;
+	/* GROSOR DEL BORDE INFERIOR */
+	 border-bottom-width: 1px;
+	/* GROSOR DEL BORDE DERECHO */
+	border-right-width: 1px;
+	/* GROSOR DEL BORDE IZQUIERDO */
+	 border-left-width: 1px;
+	border-radius: 5px;
+}
+
