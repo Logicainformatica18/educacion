@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.1",
     "version-updater": "^3.13.0"
   },
   "devDependencies": {
